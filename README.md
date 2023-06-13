@@ -30,6 +30,8 @@ Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I poss
 * Some Personal Projects 
 * Kubernetes
 
+   <!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 <!---
 keshav-06/keshav-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
